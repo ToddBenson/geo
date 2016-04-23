@@ -1,0 +1,11 @@
+[0m[[0minfo[0m] [0m[32mgeoAreaTest:[0m[0m
+[0m[[0minfo[0m] [0m[32mgeoArea is passed 2 numbers[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return a number equal to the two numbers multiplied together[0m[0m
+[0m[[0minfo[0m] [0m[32mgeoPerim is passed 2 numbers[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return a number equal to the numbers added together and multiplied by 2[0m[0m
+[0m[[0minfo[0m] [0m[32mgeoPy is passed 2 numbers[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return a number equal to the square root of a squared plus b squared[0m[0m
+[0m[[0minfo[0m] [0m[32mgeoTriArea is passed 2 numbers[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return a number equal to the product of both numbers divided in half[0m[0m
+[0m[[0minfo[0m] [0m[32mgeoTriPerim is passed 2 numbers[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return a number equal to a plus b plus c[0m[0m
