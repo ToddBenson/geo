@@ -33,4 +33,5 @@ class geoAreaTest extends FlatSpec{
     val triPerim = Geo.geoTriPerim(3,4)
     assert(triPerim == 12)
   }
+
 }

@@ -1,0 +1,5 @@
+object Foo {
+  def bar: List[Int] =
+    List(1,2,3,4).map(f: Function1[Int, B])
+    val l = bar.length
+}
